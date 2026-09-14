@@ -3,7 +3,7 @@
 def accept_purchase(tickets_left):
     max_tickets = 4
     while True:
-        how_many_tickets = int(input(f'How many tickets will you purchase? Up to {max_tickets}: '))
+        how_many_tickets = int(input(f'How many tickets will that be? You can buy up to {max_tickets}: '))
         if 1 <= how_many_tickets <= 4:
             if how_many_tickets <= tickets_left:
                 return how_many_tickets
