@@ -13,7 +13,7 @@ def accept_purchase(tickets_left):
             print(f'Sorry, you cannot buy more than {max_tickets} tickets!')
 
 def manage_ticket_sales():
-    total_tickets = 10
+    total_tickets = 10 #taking the total number of tickets down from 20 to 10
     buyer_count = 0
     while total_tickets > 0:
         tickets_bought = accept_purchase(total_tickets)
