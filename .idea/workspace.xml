@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bd098138-9148-4beb-b217-35a42e0affcd" name="Changes" comment="nnn" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;BrettLambSCF&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/BrettLambSCF/COP2373.git&quot;,
+    &quot;accountId&quot;: &quot;10314d5c-9629-4186-851a-42926d843c13&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.6973718331752026" />
+      <entry key="MS500" value="1.9304496577030155" />
+      <entry key="S2" value="1.9821395952633916" />
+      <entry key="S5" value="1.9928171898989522" />
+      <entry key="S10" value="1.9964021225885422" />
+      <entry key="S30" value="1.9987992663452614" />
+      <entry key="S60" value="1.9993994528441876" />
+      <entry key="M2" value="1.999699681326441" />
+      <entry key="M5" value="1.9998798617058857" />
+      <entry key="M10" value="1.9999399290486832" />
+      <entry key="M15" value="1.9999599522981648" />
+      <entry key="M30" value="1.9999799759486012" />
+      <entry key="H1" value="1.9999899879241796" />
+      <entry key="H2" value="1.9999949939495596" />
+      <entry key="H4" value="1.9999974969716472" />
+      <entry key="D1" value="1.9999995828281727" />
+      <entry key="W1" value="1.999999940404014" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.1939180808937206" />
+      <entry key="MS500" value="1.7997942177930373" />
+      <entry key="S2" value="1.9477412141709163" />
+      <entry key="S5" value="1.9789131829849438" />
+      <entry key="S10" value="1.9894257844848697" />
+      <entry key="S30" value="1.9964683915546109" />
+      <entry key="S60" value="1.9982333355340718" />
+      <entry key="M2" value="1.9991164525935057" />
+      <entry key="M5" value="1.9996465293813195" />
+      <entry key="M10" value="1.9998232560801095" />
+      <entry key="M15" value="1.9998821688065282" />
+      <entry key="M30" value="1.9999410834464695" />
+      <entry key="H1" value="1.9999705414840316" />
+      <entry key="H2" value="1.9999852706822145" />
+      <entry key="H4" value="1.9999926353261568" />
+      <entry key="D1" value="1.9999987725522832" />
+      <entry key="W1" value="1.9999998246502753" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3IORwdEawBFrVJIZ6X0k10gLK3M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Debugging_Exercise (1).executor": "Run",
+    "Python.Debugging_Exercise.executor": "Debug",
+    "Python.Programming_Exercise_1.executor": "Run",
+    "Python.main.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/lambi/Downloads",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lambi\Downloads" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-821f704e66d9-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.9437.214" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd098138-9148-4beb-b217-35a42e0affcd" name="Changes" comment="" />
+      <created>1787633867632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787633867632</updated>
+      <workItem from="1789354629435" duration="693000" />
+      <workItem from="1789355403633" duration="247000" />
+    </task>
+    <task id="LOCAL-00001" summary="the test file commit">
+      <option name="closed" value="true" />
+      <created>1787635325794</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1787635325794</updated>
+    </task>
+    <task id="LOCAL-00002" summary="the test file commit">
+      <option name="closed" value="true" />
+      <created>1789354859337</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1789354859337</updated>
+    </task>
+    <task id="LOCAL-00003" summary="the test file commit">
+      <option name="closed" value="true" />
+      <created>1789354890608</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1789354890608</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="the test file commit" />
+    <MESSAGE value="Delete main.py" />
+    <MESSAGE value="20_to_10_tickets" />
+    <option name="LAST_COMMIT_MESSAGE" value="20_to_10_tickets" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <inline-watch fileUrl="file://$USER_HOME$/Downloads/Debugging_Exercise.py" line="0">
+        <watch expression="'price'" language="Python" />
+      </inline-watch>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/COP2373$Programming_Exercise_1.coverage" NAME="Programming_Exercise_1 Coverage Results" MODIFIED="1789354727108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/COP2373$Debugging_Exercise__1_.coverage" NAME="Debugging_Exercise (1) Coverage Results" MODIFIED="1789354662445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+  </component>
+</project>
